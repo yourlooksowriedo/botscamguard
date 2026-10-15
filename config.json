@@ -1,0 +1,18 @@
+{
+  "windowMs": 30000,
+  "timeoutMs": 600000,
+  "punishCooldownMs": 60000,
+  "deleteMessages": true,
+  "maxAttachmentBytes": 8388608,
+  "ignoreBots": true,
+  "ignoreUsers": [],
+  "ignoreRoles": [],
+  "ignoreChannels": [],
+  "notifyChannelId": "",
+  "thresholds": {
+    "duplicateMedia": 3,
+    "mediaChannels": 4,
+    "links": 4,
+    "linkChannels": 3
+  }
+}
